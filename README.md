@@ -9,7 +9,7 @@
 <h2>📺 Popular YouTube Videos</h2>
 
 
-- [Ice breakers Mobile Design Prototype](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Ice breakers Mobile Design Prototype](https://youtu.be/10RkFrU4BAc))
 - [My Big Idea](https://youtu.be/QGm27ni3P8M?si=bkqlwf0qsmj15DLE )
 
 
