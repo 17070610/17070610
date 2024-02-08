@@ -1,10 +1,13 @@
 <h1>Hi, I'm Schimea! </h1>
 
 <h2>👨‍💻 My Projects:</h2>
-
+ 
   - [My Big Idea](https://docs.google.com/presentation/d/1qOKixZFPk4zhvOL0vUdsqQDXsIkReTSmowCoRrGfNIY/edit?usp=sharing)
+<h3>Description</h3>
+<P>It is about the idea me and my group had about how we can make an application used to track electronic cars in order to fight against climate change</P>
     
 <h2>📺 Popular YouTube Videos</h2>
+
 
 - [Ice breakers Mobile Design Prototype](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [My Big Idea](https://youtu.be/QGm27ni3P8M?si=bkqlwf0qsmj15DLE )
