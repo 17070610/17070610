@@ -7,9 +7,9 @@ I'm passionate about building clean, scalable web apps. I love solving problems,
 ---
 
 ### 🧰 Tech Stack
-- 💡 **Languages**: JavaScript, Python, HTML, CSS, C
-- ⚙️ **Frameworks & Libraries**: React, Node.js, Express, MongoDB, Django
-- 🛠️ **Tools**: Git, VSCode, Postman, DataGrip
+- 💡 **Languages**: TypeScript, JavaScript, Python, HTML, CSS, C
+- ⚙️ **Frameworks & Libraries**: Next, ReactJS, Node.js, Express, MongoDB, Django, PostgreSQL
+- 🛠️ **Tools**: JETBrains, Git, VSCode, Postman, DataGrip
 - 🎨 **Design**: Figma, Canva
 
 ---
