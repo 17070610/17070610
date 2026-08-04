@@ -21,10 +21,4 @@ I'm passionate about building clean, scalable web apps. I love solving problems,
 
 ---
 
-### 📊 GitHub Stats
-
-![Schimea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=17070610&show_icons=true&theme=default)
-
----
-
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
